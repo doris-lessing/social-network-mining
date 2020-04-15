@@ -27,15 +27,21 @@ By running the commutiy detection algorithm, we found that the social network wi
 ### 3. Different types of individuals
 
 #### Type one: Focus
-<img src='./pictures/focus.png' width="20%" />
+<img src='./pictures/focus.png' width="30%" />
+
+This kind of students are the focus of the whole class. Usually, they are "liked" by one community while "disliked" by another.
 
 #### Type two: Love & Peace
 <img src='./pictures/love&peace.png' width="20%" />
 
+This kind of students have more mutual "like" relationships than others.
+
 #### Type three: Isolated
 <img src='./pictures/isolated.png' width="20%" />
+
+They are not liked or disliked by anyone. 
 
 ## Future works:
 
 - Quantative analysis of the relationship of the background of the students and the social status of the students in school.
-- Develop alarming systems to identify students who might need special attention using social network analysis.
+- Develop alarming systems to identify students who might need special attention by analysing social network.
