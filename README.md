@@ -14,7 +14,7 @@ The network of "like" and "dislike" relationships were construted as a directed 
 ### 1. General Graph
 <img src='./pictures/total_school.png' width="40%" />
 
-The social network graph of all the students, in which each color indicate a class.
+The social network graph of all the students, in which each color indicates a class.
 
 ### 2. Social Network Within One Class
 
